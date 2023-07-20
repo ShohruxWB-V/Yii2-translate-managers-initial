@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="400"
+   height="400"
+   viewBox="0 0 400 400"
+   sodipodi:docname="russia-flag-round.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16"><path
+         d="M 150,300 C 67.157,300 0,232.843 0,150 v 0 C 0,67.157 67.157,0 150,0 v 0 c 82.843,0 150,67.157 150,150 v 0 c 0,82.843 -67.157,150 -150,150 z"
+         id="path14" /></clipPath></defs><sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" /><g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="russia-flag-round"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,400)"><g
+       id="g10"><g
+         id="g12"
+         clip-path="url(#clipPath16)"><path
+           d="M -75,300 H 375 V 150 H -75 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path18" /><path
+           d="M -75,150 H 375 V 0 H -75 Z"
+           style="fill:#d52b1e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path20" /><path
+           d="M -75,200 H 375 V 100 H -75 Z"
+           style="fill:#0039a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path22" /></g></g></g></svg>
