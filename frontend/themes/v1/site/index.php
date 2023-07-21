@@ -1,8 +1,8 @@
 <?php
 
 /* @var $this yii\web\View */
-
-$this->title = 'My Yii Application';
+$this->params['empty_breadcrumb'] = true;
+$this->title = 'Qovoq ham chirin bo\'larkan';
 ?>
 <div class="site-index py-5 my-5 text-center">
 
